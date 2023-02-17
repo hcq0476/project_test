@@ -6,5 +6,5 @@ test file
 v
 test file
 test file
-test file
+test file master test
 test file
